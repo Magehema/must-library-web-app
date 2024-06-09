@@ -12,6 +12,7 @@ table {
     width: 80%;
     margin: 20px auto;
     border-collapse: collapse;
+    color= blue;
 
 }
 
@@ -44,7 +45,7 @@ button {
 }
 a{
     text-decoration: none;
-    background-color: red;
+    background-color: blue;
     color: white;
 }
 input{
