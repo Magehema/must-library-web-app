@@ -12,7 +12,6 @@ table {
     width: 80%;
     margin: 20px auto;
     border-collapse: collapse;
-    color= blue;
 
 }
 
@@ -30,7 +29,7 @@ form {
     width: 350px;
     margin: 25px auto;
     border-radius: 18px;
-
+    background-color: aqua;
 }
 
 label, input, button {
